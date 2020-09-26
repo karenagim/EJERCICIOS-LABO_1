@@ -7,8 +7,7 @@
 #define TAM
 #define LEN 20
 
-void cargarNombres(char vec[][]);
-int main()
+void cargarNombres(char vec[][20],int sizeNombres);int main()
 {
     char nombres[TAM][LEN];
     for(int i=0; i<TAM;i++)
@@ -23,4 +22,9 @@ int main()
         printf("%s\n",nombres[i]);
     }
     return 0;
+}
+
+void cargarNombres(char vec[][20],int sizeNombres)
+{
+    for()
 }
