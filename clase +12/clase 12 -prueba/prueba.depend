@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601932085 source:c:\users\bian\desktop\archivos-tp-en-c-master\prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
