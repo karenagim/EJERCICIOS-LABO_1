@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598921058 source:c:\users\compu casa\desktop\labo 1\clase3\ejercicio 2 - menu opcion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1599522418 source:c:\users\compu casa\desktop\utnprogramacion\segundo cuatri\labo 1\clase 5\rediseño menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
