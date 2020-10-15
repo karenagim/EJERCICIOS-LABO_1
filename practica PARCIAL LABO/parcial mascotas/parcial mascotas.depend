@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1602720417 source:c:\users\compu casa\desktop\utnprogramacion\segundo cuatri\practica parcial labo\parcial mascotas\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1602720417 c:\users\compu casa\desktop\utnprogramacion\segundo cuatri\practica parcial labo\parcial mascotas\utn.h
+	"utn.h"
+
+1602722833 source:c:\users\compu casa\desktop\utnprogramacion\segundo cuatri\practica parcial labo\parcial mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"mascotas.h"
+	"utn.h"
+
+1602722848 c:\users\compu casa\desktop\utnprogramacion\segundo cuatri\practica parcial labo\parcial mascotas\mascotas.h
+
+1602722791 source:c:\users\compu casa\desktop\utnprogramacion\segundo cuatri\practica parcial labo\parcial mascotas\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"mascotas.h"
+
