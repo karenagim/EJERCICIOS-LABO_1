@@ -25,3 +25,59 @@
 	"utn.h"
 	"mascotas.h"
 
+1602774991 source:c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"menu.h"
+	"color.h"
+	"servicios.h"
+	"tipo.h"
+	"mascotas.h"
+
+1602761475 c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\utn.h
+	"utn.h"
+
+1602773634 c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\mascotas.h
+
+1602761475 source:c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1602762494 source:c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\menu.c
+	"menu.h"
+
+1602762494 c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\menu.h
+
+1602775002 source:c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+	"menu.h"
+	"color.h"
+	"servicios.h"
+	"tipo.h"
+	"mascotas.h"
+
+1602772896 c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\color.h
+
+1602763721 c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\servicios.h
+
+1602767474 c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\tipo.h
+	<string.h>
+
+1602769391 source:c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\color.c
+	"color.h"
+	<string.h>
+
+1602763742 source:c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\servicios.c
+	"servicios.h"
+
+1602765177 source:c:\users\bian\desktop\labo1\ejercicios-labo_1-master\practica parcial labo\parcial mascotas\tipo.c
+	"tipo.h"
+

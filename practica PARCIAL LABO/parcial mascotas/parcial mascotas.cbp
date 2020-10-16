@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="color.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="color.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -42,6 +46,14 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="menu.h" />
+		<Unit filename="servicios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="servicios.h" />
+		<Unit filename="tipo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tipo.h" />
 		<Unit filename="utn.c">
 			<Option compilerVar="CC" />
 		</Unit>
