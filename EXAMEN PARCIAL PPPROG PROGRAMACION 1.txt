@@ -1,0 +1,37 @@
+------*          *-----------
+
+1- git clone
+2- local
+3- void
+4- for 
+5- compilador
+6- (si existe una variable global y una local con un mismo nombre) 
+  tiene valor la variable local, no hay conlicto porque estan declaradas en scope distinto, debido a que ambas tienen distintas direcciones de memoria,la variable local tiene mas peso porque la local eclipsa a la variable global
+
+7- el subindice de un vector finaliza en
+cant elements-1
+
+8- continue (termina ese bucle pero evalua devuelta la condicion, si la condicion es verdadera vuelve a iterar si no sale del bucle)
+
+9- Un parametro actual es:
+   Cualquier parametro se pasa por valor o referencia,
+que sea formal o actual depende si esta en la llamada a la funcion o en la declaracion.
+
+El actual es cuando lo llamamos, la respuesta es NINGUNA LAS ANTERIORES , y porque es la actual? porque va a estar en ese momento en que se llama, ese es el actual, enm cambio el parametro que esta en la funcion no cambia ese es FORMAL
+
+10- determine la salida de ese programa:
+" Chau mundo"
+
+11- Otra: es como la opcion 1 pero con INT edad
+
+12- Juan (J esta despues que j en el diccionario entonces...)
+
+13- (opcion4)#include "miBiblioteca.h" 
+
+14- Que es un array? 
+ (opcion3) Un conjunto de elementos del mismo tipo bajo el mismo nombre.
+
+15- Determine cual es la funcion del & en la funcion restar
+ (opcion 3) para poder escribirla, dale el poder al pasarlo por referencia para que lo pueda escribir
+
+16

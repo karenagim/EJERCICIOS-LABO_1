@@ -1,0 +1,13 @@
+NO DEBE APARECER EL ID_TIPO ID_COLOR
+EN LA MODIFIC O BAJA DEBE APARECER EL LISTADO DE LAS MASCOTAS
+PARA PREGUNTAR EL ID DE ESA MASCOTA Y SI YO NO CONOZCO
+EL ID? - debo mostrar el listado de personas/mascotas etc
+para que yo elija el id, si es inconrecto me debe llevar al menu nuevamente
+
+
+si yo tengo (entidad) rodado/cilindrada cuando voy a pedir
+ingrese rodado tengo que validar que sean esos rodados no cualquier numero si dice 20 , 35 ,29.7 tienen que sert unicamente esos valores
+
+en modificacion rodado o color, cuando voy a modificar
+debe peguntar que quiero modificar? si rodado o color
+no ingrese color ingrese rodado
